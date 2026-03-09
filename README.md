@@ -15,3 +15,13 @@ L.E.: conceptualization, methodology, literature review, data security consultat
 
 #### Relevant literature
 
+Diversitätsverständnis der Max-Planck-Gesellschaft [Diversity Understanding within the Max Planck Society] (2019). https://max.mpg.de/Career/Pages/Diversity.aspx
+
+Kracke, N., Middendorff, E., Buck, D. (2018). *Beteiligung an Hochschulbildung, Chancen(un)gleichheit in Deutschland [Participation in higher education and (in)equality of opportunity in Germany] (DZHW Brief 3|2018)*. Hannover: Deutsches Zentrum für Hochschul- und Wissenschaftsforschung (DZHW). https://doi.org/10.34878/2018.03.dzhw_brief
+
+Morgan, A. C., LaBerge, N., Larremore, D. B., Galesic, M., Brand, J. E., & Clauset, A. (2022). Socioeconomic roots of academic faculty. *Nature Human Behaviour, 6*(12), 1625-1633. https://doi.org/10.1038/s41562-022-01425-4
+
+Ross, M. B., Glennon, B. M., Murciano-Goroff, R., Berkes, E. G., Weinberg, B. A., & Lane, J. I. (2022). Women are credited less in science than men. *Nature, 608*(7921), 135-145. https://doi.org/10.1038/s41586-022-04966-w
+
+Täuber, S. (2022). Women academics’ intersectional experiences of policy ineffectiveness in the European context. *Frontiers in Psychology, 13*, 810569. https://doi.org/10.3389/fpsyg.2022.810569
+
