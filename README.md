@@ -1,5 +1,5 @@
 # how-to-employee-survey-on-identity-dimensions
-Intersectionality survey assessing demographic and identity dimensions typically subject to discrimination or privilege. This repository is work-in-progress. The survey assesses:
+**Intersectionality survey** assessing demographic and identity dimensions typically subject to discrimination or privilege. This repository is work-in-progress. The survey assesses:
 - age range (15 years)
 - highest educational degree of guardian(s) during youth
 - home countries of last two generations within the family
