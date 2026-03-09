@@ -25,3 +25,7 @@ Ross, M. B., Glennon, B. M., Murciano-Goroff, R., Berkes, E. G., Weinberg, B. A.
 
 Täuber, S. (2022). Women academics’ intersectional experiences of policy ineffectiveness in the European context. *Frontiers in Psychology, 13*, 810569. https://doi.org/10.3389/fpsyg.2022.810569
 
+#### Relevant links
+
+https://www.mpg.de/797963/diversity-inclusion <br>
+https://arbeiterkind.de
