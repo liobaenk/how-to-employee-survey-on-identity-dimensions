@@ -1,5 +1,5 @@
 # how-to-employee-survey-on-identity-dimensions
-'Intersectionality survey' for employees (within research institutions) assessing demographic and identity dimensions, typically associated to discrimination or privilege. *Note, this repository is work-in-progress.*
+'Intersectionality survey' for employees (within research institutions) assessing demographic and identity dimensions, typically associated to discrimination or privilege. ***Note, this repository is work-in-progress.***
 
 The survey assesses: age range, highest educational degree of guardian(s) during youth, global home regions of last two generations within the family, citizenship, religious practice (at work), and gender, biological sex and sexual orientation.
 
@@ -11,7 +11,8 @@ Enk, L., Hoffmann, K. C.&ast;, Kiakou, D.&ast; (2026). *How to employee survey o
 &ast; both contributed equally.
 
 #### CRediT
-L.E.: conceptualization, methodology, literature review, data security consultation, software, validation, survey dissemination & outreach, project administration. D.K.: literature review, validation, survey dissemination & outreach. K.C.H.: literature review, validation, survey dissemination & outreach.
+
+Conceptualization, L.E.; Methodology, L.E.; Literature review, L.E., D.K., K.C.H.; Data security consultation, L.E.; Software, L.E.; Validation, L.E., D.K., K.C.H.; Presentation to institute management, L.E., K.C.H.; Dissemination & outreach, L.E., K.C.H., D.K.; Project administration, L.E.; ... (*work in progress*)
 
 #### Relevant literature
 
