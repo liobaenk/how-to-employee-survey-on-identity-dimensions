@@ -34,4 +34,8 @@ https://arbeiterkind.de<br>
 https://blackinneuro.com<br>
 https://www.winrepo.org
 
+---
+
+We thank Johanna Finnemann, Srividya A Sundaram, Aarushi Juyal, Xia Zhang, Karsten Mueller, our fellow members of the [Diversity & Inclusion Committee of the Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/diversity-inclusion-committee), Leipzig, Germany.
+
 
