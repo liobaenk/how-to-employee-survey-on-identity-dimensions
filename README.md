@@ -4,7 +4,8 @@
 The survey assesses: age range, highest educational degree of guardian(s) during youth, global home regions of last two family generations, citizenship, religious practice (at work), gender, biological sex and sexual orientation.
 
 #### Acknowledgement
-When considering survey implementation at your home institution, please cite us as follows (CC-By Attribution 4.0 International):
+When considering survey implementation at your home institution,<br>
+please cite us as follows (CC-By Attribution 4.0 International):
 
 Enk, L., Hoffmann, K. C.&ast;, Kiakou, D.&ast; (2026). *How to employee survey on demographic and identity dimensions*. https://github.com/liobaenk/how-to-employee-survey-on-identity-dimensions
 
@@ -29,4 +30,8 @@ Täuber, S. (2022). Women academics’ intersectional experiences of policy inef
 #### Relevant links
 
 https://www.mpg.de/797963/diversity-inclusion <br>
-https://arbeiterkind.de
+https://arbeiterkind.de<br>
+https://blackinneuro.com<br>
+https://www.winrepo.org
+
+
